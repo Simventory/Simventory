@@ -13,8 +13,8 @@
       }
     },
 	
-  "simEditionData": {
-      "name": "DEV_SED",
+  "baseSimData": {
+      "name": "DEV_BSD",
       "revision": 1,
       "formatVersion": 1,
       "downloads": {
