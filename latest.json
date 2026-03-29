@@ -2,7 +2,7 @@
   "resources": {
     "airportData": {
       "name": "DEV_ADS",
-      "revision": 5,
+      "revision": 20,
       "formatVersion": 1,
       "download": {
         "fileName": "client-data.ads",
