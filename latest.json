@@ -1,15 +1,15 @@
 {
   "resources": {
     "airportData": {
-		"name": "DEV_ADS",
-		"revision": 2,
-		"formatVersion": 1,
-		"downloads": {
-			"ads": {
-				"url": "https://github.com/Simventory/Simventory.AirportData/releases/latest/download/client-data.ads"
-				"sha256": "4ab017efccaf22650d033806b5ebe4e62d6b8f4199675184110ac55a2a4d1e29"
-			}	
-		}
+      "name": "DEV_ADS",
+      "revision": 2,
+      "formatVersion": 1,
+      "downloads": {
+        "ads": {
+          "url": "https://github.com/Simventory/Simventory.AirportData/releases/latest/download/client-data.ads",
+          "sha256": "4ab017efccaf22650d033806b5ebe4e62d6b8f4199675184110ac55a2a4d1e29"
+        }
+      }
     }
   }
 }
